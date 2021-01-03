@@ -9,6 +9,6 @@ I am a newbie iOS/Swift developer based in Warsaw, Poland.
 - ✅ I've finished "iOS & Swift — The Complete iOS App Development Bootcamp" at London App Brewery
 - 📒 I'm currently studying "Developing Applications for iOS using SwiftUI" CS193p Stanford University course 
 - 👯 I’m looking to collaborate on nice iOS projects I could contribute to
-- 📫 How to reach me: pacholak at gmail
+- 📫 Feel free to contact me: pacholak at gmail (already got a CV!)
 - ⚡ Fun fact: diamond/master league Starcraft 2 player; 
 

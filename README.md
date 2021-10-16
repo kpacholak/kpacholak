@@ -13,6 +13,6 @@ I work as a junior iOS Developer
 
 ✉️ Feel free to contact me: pacholak at gmail dot com
 
-⚡ Fun fact: diamond/master league Starcraft 2 player
+👾 Fun fact: diamond/master league Starcraft 2 player
 
 🌆 Live in Warsaw, Poland

@@ -3,11 +3,16 @@
 <!--
 **kpacholak/kpacholak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I'm a Junior iOS/Swift Developer based in Warsaw, Poland. 
+I work as a junior iOS Developer
 
-- 🛠 I’m currently working on create first complete app called "FlowerID" (minimum viable product for now)
-- ✔️ I've finished "iOS & Swift — The Complete iOS App Development Bootcamp" at London App Brewery & Stanford University "Developing Applications for iOS using Swift"
-- 📒 I'm currently studying "iOS 14 Programming Fundamentals with Swift: Swift, Xcode and Cocoa Basics" by Matt Neuburg
-- ✉️ Feel free to contact me: pacholak at gmail dot com
-- ⚡ Fun fact: diamond/master league Starcraft 2 player
+- I know Swift, UIKit & XCode
+- I understand model-view-controller pattern
+- I can use `git` from command line & from IDE, I know how to rewrite history ;)
+- I know the basics of security standards for mobile apps (OWASP MASVS)
+- I made funny camera-based app with implemented ML model -> [FlowerID](https://github.com/kpacholak/FlowerID)
+- 
 
+
+✉️ Feel free to contact me: pacholak at gmail dot com
+⚡ Fun fact: diamond/master league Starcraft 2 player
+🌆 Live in Warsaw, Poland

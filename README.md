@@ -12,5 +12,7 @@ I work as a junior iOS Developer
 - I made funny camera-based app with implemented ML model -> [FlowerID](https://github.com/kpacholak/FlowerID)
 
 ✉️ Feel free to contact me: pacholak at gmail dot com
+
 ⚡ Fun fact: diamond/master league Starcraft 2 player
+
 🌆 Live in Warsaw, Poland

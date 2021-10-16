@@ -10,8 +10,6 @@ I work as a junior iOS Developer
 - I can use `git` from command line & from IDE, I know how to rewrite history ;)
 - I know the basics of security standards for mobile apps (OWASP MASVS)
 - I made funny camera-based app with implemented ML model -> [FlowerID](https://github.com/kpacholak/FlowerID)
-- 
-
 
 ✉️ Feel free to contact me: pacholak at gmail dot com
 ⚡ Fun fact: diamond/master league Starcraft 2 player

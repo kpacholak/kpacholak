@@ -3,7 +3,7 @@
 <!--
 **kpacholak/kpacholak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I work as a junior iOS Developer
+I work as a iOS Developer
 
 - I know Swift, UIKit & XCode
 - I understand model-view-controller pattern
